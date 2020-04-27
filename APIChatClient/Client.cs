@@ -36,7 +36,7 @@ namespace APIChatClient
             {
                 try
                 {
-                    // Буффер для данных
+                    // Буффер для данных 
                     byte[] data;
                     string jsonString;
                     // Получаем размер сообщения
